@@ -1,2 +1,2 @@
 # imageProcessing
-이미지 처리
+영상 정보 처리 실습
